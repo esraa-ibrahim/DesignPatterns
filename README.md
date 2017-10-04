@@ -7,6 +7,7 @@ This repository will contain implementation for some of most popular design patt
 
 ### Structural
 ---
+1. [Decorator](https://sourcemaking.com/design_patterns/decorator)
 
 ### Behavioral
 ---
