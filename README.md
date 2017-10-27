@@ -4,6 +4,7 @@ This repository will contain implementation for some of most popular design patt
 ### Creational
 ---
 1. [Singleton](https://sourcemaking.com/design_patterns/singleton) ``` A class of which only a single instance can exist. ```
+2. [Builder](https://sourcemaking.com/design_patterns/builder) ``` Separates object construction from its representation ```
 
 ### Structural
 ---
