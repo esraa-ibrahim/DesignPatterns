@@ -13,3 +13,4 @@ This repository will contain implementation for some of most popular design patt
 ### Behavioral
 ---
 1. [Observer](https://sourcemaking.com/design_patterns/observer) ``` A way of notifying change to a number of classes. ```
+2. [Strategy](https://sourcemaking.com/design_patterns/strategy) ``` Encapsulates an algorithm inside a class. ```
